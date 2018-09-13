@@ -1,0 +1,10 @@
+﻿  Cpp_Tik-Tok-Toe.cpp
+c:\users\翁榮鴻\desktop\cpp_tic-toc-toe_ai_03\cpp_tik-tok-toe.cpp(57): warning C4101: 'location': 未參考的區域變數
+c:\users\翁榮鴻\desktop\cpp_tic-toc-toe_ai_03\cpp_tik-tok-toe.cpp(278): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+c:\users\翁榮鴻\desktop\cpp_tic-toc-toe_ai_03\cpp_tik-tok-toe.cpp(327): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+c:\users\翁榮鴻\desktop\cpp_tic-toc-toe_ai_03\cpp_tik-tok-toe.cpp(826): warning C4101: 'process_sign': 未參考的區域變數
+c:\users\翁榮鴻\desktop\cpp_tic-toc-toe_ai_03\cpp_tik-tok-toe.cpp(710): warning C4715: 'case_1st': 不是所有控制路徑都傳回值
+c:\users\翁榮鴻\desktop\cpp_tic-toc-toe_ai_03\cpp_tik-tok-toe.cpp(766): warning C4715: 'case_2nd': 不是所有控制路徑都傳回值
+c:\users\翁榮鴻\desktop\cpp_tic-toc-toe_ai_03\cpp_tik-tok-toe.cpp(793): warning C4715: 'case_3rd': 不是所有控制路徑都傳回值
+c:\users\翁榮鴻\desktop\cpp_tic-toc-toe_ai_03\cpp_tik-tok-toe.cpp(820): warning C4715: 'case_4th': 不是所有控制路徑都傳回值
+  Cpp_Tik-Tok-Toe.vcxproj -> C:\Users\翁榮鴻\Desktop\Cpp_Tic-Toc-Toe_AI_03\Debug\Cpp_Tik-Tok-Toe.exe
